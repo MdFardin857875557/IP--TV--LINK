@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png" tvg-id="<built-in function id>" group-title="Byte Capsule",ATN Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=u3QvjkpvAhKk_YOkGdaPpA&expires=1730957060&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" tvg-id="<built-in function id>" group-title="Byte Capsule",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=t2pNi2uXX3Stc5GtxQEvUA&expires=1730957062&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" tvg-id="<built-in function id>" group-title="Byte Capsule",Al Jazeera English HD
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=FHHc5YHHliXmkDeAXeI3Aw&expires=1730957063&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" tvg-id="<built-in function id>" group-title="Byte Capsule",Ananda TV
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=UPOoX4sI6xdIyhUt7oycNQ&expires=1730957064&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png" tvg-id="<built-in function id>" group-title="Byte Capsule",Arirang
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=UcCcufa4HSr909lNlOqNPA&expires=1730957065&user=d477246e9e724f81a011b847457e71c4
