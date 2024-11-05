@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="BANGLA" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", BANGLA
 http://starshare.live:8080/live/qwer/qwer/433.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="BANGLA 2" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", BANGLA 2
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=xb8hDcXQ8Bk
