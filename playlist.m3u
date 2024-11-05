@@ -95,3 +95,9 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=HWFsBLoSydo1
 https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=TUGK-V8p6zAp9WFdRUdO_A&expires=1730957109&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" tvg-id="<built-in function id>" group-title="Byte Capsule",Zee TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=-Fr5BCUJ4NKb-po9Oq_Ipw&expires=1730957110&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/9MfTMV1X/Sony-Aath-new.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony AATH
+https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony MAX" tvg-logo="https://i.postimg.cc/v8k9QJnM/Sony-Max-new-1.png" tvg-chno="2" group-title="FR TV CHANNEL",Sony MAX
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Sony MAX2" tvg-logo="https://i.postimg.cc/rwLr45gP/channels4-profile-5.jpg" tvg-chno="3" group-title="FR TV CHANNEL",Sony MAX2
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
