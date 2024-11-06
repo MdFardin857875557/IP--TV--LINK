@@ -101,3 +101,5 @@ https://toffee.iptvbd.xyz/api/sony_aath.m3u8
 https://toffee.iptvbd.xyz/api/sony_max.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Sony MAX2" tvg-logo="https://i.postimg.cc/rwLr45gP/channels4-profile-5.jpg" tvg-chno="3" group-title="FR TV CHANNEL",Sony MAX2
 https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Jamuna TV" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", Jamuna TV
+https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=xb8hDcXQ8Bk
