@@ -39,3 +39,19 @@ https://toffee.iptvbd.xyz/api/cartoon_network_hd.m3u8
 https://toffee.iptvbd.xyz/api/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="POGO" tvg-logo="https://i.postimg.cc/0jQKvfNr/mobile-logo-740957001679201029.png" tvg-chno="2" group-title="FR TV CHANNEL", POGO
 https://toffee.iptvbd.xyz/api/pogo_sd.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/9QFmnMrF/mobile-logo-032001001673194753.png" tvg-chno="1" group-title="FR TV CHANNEL", Animal Planet HD
+https://toffee.iptvbd.xyz/api/animal_planet_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/ZR34dvDj/mobile-logo-835681001673175607.png" tvg-chno="2" group-title="FR TV CHANNEL", Animal Planet
+https://toffee.iptvbd.xyz/api/animal_planet_sd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Channel HD" tvg-logo="https://i.postimg.cc/rFqMDmGC/mobile-logo-868363001673181438.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Channel HD
+https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/D02HwWVS/mobile-logo-297723001673195119.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Channel
+https://toffee.iptvbd.xyz/api/discovery_sd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/MG79fWmV/mobile-logo-604754001673177502.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Science
+https://toffee.iptvbd.xyz/api/discovery_science.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/CK7jVd4P/mobile-logo-775127001673177876.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Turbo
+https://toffee.iptvbd.xyz/api/discovery_turbo.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/7P2NQ3RX/mobile-logo-648826001673178929.png" tvg-chno="2" group-title="FR TV CHANNEL", TLC HD
+https://toffee.iptvbd.xyz/api/tlc_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="TLC" tvg-logo="https://i.postimg.cc/d032Rrd2/mobile-logo-048875001673178985.png" tvg-chno="2" group-title="FR TV CHANNEL", TLC
+https://toffee.iptvbd.xyz/api/tlc_sd.m3u8
