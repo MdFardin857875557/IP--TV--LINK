@@ -9,5 +9,35 @@ https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport" tvg-logo="https://i.postimg.cc/MTSS67K3/mobile-logo-412057001674119486.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport
 https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport HD" tvg-logo="https://i.postimg.cc/bJ9jsZZy/mobile-logo-422191001674119624.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport HD" tvg-logo="https://i.postimg.cc/bJ9jsZZy/mobile-logo-422191001674119624.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport HD
 https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Entertainment" tvg-logo="https://i.postimg.cc/L6bFYK81/mobile-logo-149299001666780350.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Entertainment
+https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/RZHyWWYk/mobile-logo-612341001666782969.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Max
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/zBXxFvdX/mobile-logo-886909001563629905.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Music
+https://toffee.iptvbd.xyz/api/b4umusic.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/k4P2VCgr/mobile-logo-496322001666780228.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony AATH
+https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony SAB HD" tvg-logo="https://i.postimg.cc/pL9rqr9b/mobile-logo-688156001666785674.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony SAB HD
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony MAX2" tvg-logo="https://i.postimg.cc/66jBgwx9/mobile-logo-044841001666779831.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony MAX2
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony WAH" tvg-logo="https://i.postimg.cc/pT0MwQ70/mobile-logo-037670001666785867.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony WAH
+https://toffee.iptvbd.xyz/api/sony_wah.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/yNsqWrCQ/mobile-logo-091186001666784752.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Yay
+https://toffee.iptvbd.xyz/api/sony_yay.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony BBC EARTH HD" tvg-logo="https://i.postimg.cc/DyXR6K2p/mobile-logo-363688001655891620.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony BBC EARTH HD
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony BBC EARTH HD" tvg-logo="https://i.postimg.cc/yNsqWrCQ/mobile-logo-091186001666784752.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony BBC EARTH HD
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/wBvChR3L/mobile-logo-287412001666784602.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony PIX HD
+https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Movie" tvg-logo="https://i.postimg.cc/25VtqpXx/mobile-logo-702115001663003759.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Movie
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/BvKg9JVR/mobile-logo-443429001678950505.png" tvg-chno="2" group-title="FR TV CHANNEL", Cartoon Network HD+
+https://toffee.iptvbd.xyz/api/cartoon_network_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/5tLwKnHV/mobile-logo-430542001673177743.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Kids
+https://toffee.iptvbd.xyz/api/discovery_kids.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="POGO" tvg-logo="https://i.postimg.cc/0jQKvfNr/mobile-logo-740957001679201029.png" tvg-chno="2" group-title="FR TV CHANNEL", POGO
+https://toffee.iptvbd.xyz/api/pogo_sd.m3u8
