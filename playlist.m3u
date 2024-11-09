@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="LINK 1" tvg-logo="" tvg-chno="1" group-title="FR TV CHANNEL", LINK 1
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=PBOoMxBmOHk
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony TEN 1 HD" tvg-logo="https://i.postimg.cc/8CF5JmG1/mobile-logo-237244001666780563.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony TEN 1 HD
+https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 2 HD" tvg-logo="https://i.postimg.cc/902Fk37M/mobile-logo-093449001666780976.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 2 HD
+https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 3 HD" tvg-logo="https://i.postimg.cc/Hspk4gmv/mobile-logo-992280001666781086.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 3 HD
+https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 5 HD" tvg-logo="https://i.postimg.cc/y8G6H3Z2/mobile-logo-689539001672145843.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 5 HD
+https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport" tvg-logo="https://i.postimg.cc/MTSS67K3/mobile-logo-412057001674119486.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport
+https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport HD" tvg-logo="https://i.postimg.cc/bJ9jsZZy/mobile-logo-422191001674119624.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport
+https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
