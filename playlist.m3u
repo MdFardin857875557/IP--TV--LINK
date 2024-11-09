@@ -29,8 +29,6 @@ https://toffee.iptvbd.xyz/api/sony_wah.m3u8
 https://toffee.iptvbd.xyz/api/sony_yay.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony BBC EARTH HD" tvg-logo="https://i.postimg.cc/DyXR6K2p/mobile-logo-363688001655891620.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony BBC EARTH HD
 https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony BBC EARTH HD" tvg-logo="https://i.postimg.cc/yNsqWrCQ/mobile-logo-091186001666784752.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony BBC EARTH HD
-https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/wBvChR3L/mobile-logo-287412001666784602.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony PIX HD
 https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Movie" tvg-logo="https://i.postimg.cc/25VtqpXx/mobile-logo-702115001663003759.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Movie
