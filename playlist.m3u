@@ -7,10 +7,6 @@ https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
 https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 5 HD" tvg-logo="https://i.postimg.cc/y8G6H3Z2/mobile-logo-689539001672145843.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 5 HD
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport" tvg-logo="https://i.postimg.cc/MTSS67K3/mobile-logo-412057001674119486.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport
-https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
-#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Euro Sport HD" tvg-logo="https://i.postimg.cc/bJ9jsZZy/mobile-logo-422191001674119624.png" tvg-chno="2" group-title="FR TV CHANNEL", Euro Sport HD
-https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Entertainment" tvg-logo="https://i.postimg.cc/L6bFYK81/mobile-logo-149299001666780350.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Entertainment
 https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/RZHyWWYk/mobile-logo-612341001666782969.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Max
