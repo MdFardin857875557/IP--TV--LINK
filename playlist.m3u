@@ -12,7 +12,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="PBS KIDS" tvg-logo="https://i.postimg.cc/QMFKgzhm/PBS-Kids-logo-2022-svg.png" tvg-chno="2" group-title="FR TV CHANNEL", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Spacetoon" tvg-logo="https://i.postimg.cc/4yy3Z7y5/images-25.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w537828290_b346000_slAR.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Zoo moo" tvg-logo="https://i.postimg.cc/RZKZMzSj/images-15.png" tvg-chno="2" group-title="FR TV CHANNEL", Zoo moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="rongeen tv" tvg-logo="https://i.postimg.cc/HxsY4cwg/RONGEEN-Thumbnail.webp" tvg-chno="3" group-title="FR TV CHANNEL", rongeen tv
