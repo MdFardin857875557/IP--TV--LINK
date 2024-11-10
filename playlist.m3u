@@ -62,3 +62,5 @@ https://toffee.iptvbd.xyz/api/discovery_turbo.m3u8
 https://toffee.iptvbd.xyz/api/tlc_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="TLC" tvg-logo="https://i.postimg.cc/d032Rrd2/mobile-logo-048875001673178985.png" tvg-chno="2" group-title="FR TV CHANNEL", TLC
 https://toffee.iptvbd.xyz/api/tlc_sd.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="AFG VS BAN" tvg-logo="https://i.postimg.cc/QdQfGSPj/mobile-logo-753607001730650681.png" tvg-chno="1" group-title="FR TV CHANNEL", AFG VS BAN
+https://mdfardin857875557.github.io/Toffee-Live/Play.m3u8
