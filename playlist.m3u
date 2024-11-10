@@ -3,3 +3,5 @@
 https://mdfardin857875557.github.io/Sony-Yay-toffee/Play.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/BvKg9JVR/mobile-logo-443429001678950505.png" tvg-chno="1" group-title="FR TV CHANNEL", Cartoon Network HD+
 https://mdfardin857875557.github.io/CN-HD-TOFFEE/Play.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="POGO" tvg-logo="https://i.postimg.cc/0jQKvfNr/mobile-logo-740957001679201029.png" tvg-chno="1" group-title="FR TV CHANNEL", POGO
+https://mdfardin857875557.github.io/Pogo-IP-TV/Play.m3u8
