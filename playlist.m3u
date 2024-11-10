@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="N TV" tvg-logo="https://i.postimg.cc/qMhpBdBp/IMG-20241110-192057.jpg" tvg-chno="1" group-title="FR TV CHANNEL", N TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="DBC NEWS" tvg-logo="https://i.postimg.cc/nLH8m8xj/IMG-20241110-192321.png" tvg-chno="2" group-title="FR TV CHANNEL", DBC NEWS
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/v89dCt0m/images-27.jpg" tvg-chno="3" group-title="FR TV CHANNEL", Ekhon TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/RVR2zsKv/IMG-20241110-193040.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/yNsqWrCQ/mobile-logo-091186001666784752.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony Yay
 https://mdfardin857875557.github.io/Sony-Yay-toffee/Play.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/BvKg9JVR/mobile-logo-443429001678950505.png" tvg-chno="1" group-title="FR TV CHANNEL", Cartoon Network HD+
