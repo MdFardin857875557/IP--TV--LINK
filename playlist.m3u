@@ -7,3 +7,7 @@ https://mdfardin857875557.github.io/CN-HD-TOFFEE/Play.m3u8
 https://mdfardin857875557.github.io/Pogo-IP-TV/Play.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery Kids " tvg-logo="https://i.postimg.cc/5tLwKnHV/mobile-logo-430542001673177743.png" tvg-chno="1" group-title="FR TV CHANNEL", Discovery Kids 
 https://mdfardin857875557.github.io/Discovery-kids-Toffee/Play.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Gubbare" tvg-logo="https://i.postimg.cc/PJWwp8Tk/image-Content-57985-khvdchrs-m2.webp" tvg-chno="1" group-title="FR TV CHANNEL", Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="PBS KIDS" tvg-logo="https://i.postimg.cc/QMFKgzhm/PBS-Kids-logo-2022-svg.png" tvg-chno="2" group-title="FR TV CHANNEL", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
