@@ -19,3 +19,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w53782
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="rongeen tv" tvg-logo="https://i.postimg.cc/HxsY4cwg/RONGEEN-Thumbnail.webp" tvg-chno="3" group-title="FR TV CHANNEL", rongeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/FR4xzmX8/Sony-Aath-new.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony AATH
+https://mdfardin857875557.github.io/Sony-AATH-toffee/Play.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/rshGfrR2/images.webp" tvg-chno="2" group-title="FR TV CHANNEL", Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
