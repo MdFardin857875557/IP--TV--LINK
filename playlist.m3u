@@ -37,3 +37,9 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w53782
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="rongeen tv" tvg-logo="https://i.postimg.cc/HxsY4cwg/RONGEEN-Thumbnail.webp" tvg-chno="3" group-title="FR TV CHANNEL", rongeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony TEN 1 HD" tvg-logo="https://i.postimg.cc/8CF5JmG1/mobile-logo-237244001666780563.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony TEN 1 HD
+https://proxy.imotv.online/sonysports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Star Sports HD" tvg-logo="https://i.postimg.cc/zXGkPKZc/image-Content-8301-j7hc0820-m1.png" tvg-chno="2" group-title="FR TV CHANNEL", Star Sports HD
+https://mdfardin857875557.github.io/Star-Sports-HD/Play.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/Wzhh02CX/IMG-20241111-021842.png" tvg-chno="3" group-title="FR TV CHANNEL", T Sports HD
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
