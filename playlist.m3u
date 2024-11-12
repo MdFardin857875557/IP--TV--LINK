@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/bNXW2m7j/IMG-20241111-005203.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="ATN BANGLA" tvg-logo="https://i.postimg.cc/hvytLR44/atn-bangla.png" tvg-chno="1" group-title="FR TV CHANNEL", "ATN BANGLA
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="ATN BANGLA" tvg-logo="https://i.postimg.cc/hvytLR44/atn-bangla.png" tvg-chno="1" group-title="FR TV CHANNEL", ATN BANGLA
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=kOj9jBuUY-RLJgcvi9sS5A&expires=1731653731&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Asia TV" tvg-logo="https://i.postimg.cc/ydwHs6NZ/asian-tv.png" tvg-chno="2" group-title="FR TV CHANNEL", Asian TV
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=iT_x8BQZKdMka2ZMVjG82g&expires=1731653912&user=811838a63b224e85b02b925b31d0fece
