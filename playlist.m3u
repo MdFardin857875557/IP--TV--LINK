@@ -43,3 +43,15 @@ https://proxy.imotv.online/sonysports1/tracks-v1a1/mono.m3u8
 https://mdfardin857875557.github.io/Star-Sports-HD/Play.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/Wzhh02CX/IMG-20241111-021842.png" tvg-chno="3" group-title="FR TV CHANNEL", T Sports HD
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="9XM" tvg-logo="https://i.postimg.cc/RF6yysgj/image.png" tvg-chno="1" group-title="FR TV CHANNEL", 9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="9X Jalwa" tvg-logo="https://i.postimg.cc/sgHnzPGy/image.png" tvg-chno="2" group-title="FR TV CHANNEL", 9X Jalwa
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="9X tashan" tvg-logo="https://i.postimg.cc/dQR43cZ5/oy-QOdf-Q0-400x400.jpg" tvg-chno="3" group-title="FR TV CHANNEL", 9X tashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Music india" tvg-logo="https://i.postimg.cc/cLzc2sPL/image.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Music india
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/8CRKVGyK/FB-IMG-1731271397914.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="9X jhakaas" tvg-logo="https://i.postimg.cc/90q2PF3w/image.jpg" tvg-chno="1" group-title="FR TV CHANNEL", 9X jhakaas
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
