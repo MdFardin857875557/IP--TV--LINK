@@ -41,6 +41,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w537828290_b346000_slAR.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Zoo moo" tvg-logo="https://i.postimg.cc/RZKZMzSj/images-15.png" tvg-chno="2" group-title="FR TV CHANNEL", Zoo moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/Xqdp0znn/duronto-tv.png" tvg-chno="1" group-title="FR TV CHANNEL", Duronto TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=W8hU2XUxl2bdKpcR2lx3kA&expires=1731654968&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="rongeen tv" tvg-logo="https://i.postimg.cc/HxsY4cwg/RONGEEN-Thumbnail.webp" tvg-chno="3" group-title="FR TV CHANNEL", rongeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony TEN 1 HD" tvg-logo="https://i.postimg.cc/8CF5JmG1/mobile-logo-237244001666780563.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony TEN 1 HD
