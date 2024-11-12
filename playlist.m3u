@@ -7,6 +7,12 @@ https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=kOj9jBuUY-RL
 https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=iT_x8BQZKdMka2ZMVjG82g&expires=1731653912&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/kGdpT24f/jamuna-tv-1.png" tvg-chno="3" group-title="FR TV CHANNEL", Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=4H6OLt23l_yfBLw_iYeSIQ&expires=1731653965&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="News 24" tvg-logo="https://i.postimg.cc/cHGpb9kR/news-24-hd.png" tvg-chno="1" group-title="FR TV CHANNEL", News 24
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=W8hU2XUxl2bdKpcR2lx3kA&expires=1731654968&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Gazi TV HD" tvg-logo="https://i.postimg.cc/7ZCjY8p1/gazi-tv.png" tvg-chno="2" group-title="FR TV CHANNEL", Gazi TV HD
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=oZStfXa9uPTCua0nzAWEvA&expires=1731655607&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Nagorik TV" tvg-logo="https://i.postimg.cc/ZKXVH9M3/nagorik-tv.png" tvg-chno="3" group-title="FR TV CHANNEL", Nagorik TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=GViq-1BvbYRXZayTztWexA&expires=1731655773&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="My TV" tvg-logo="https://i.postimg.cc/Kv2FycvL/images-30.jpg" tvg-chno="2" group-title="FR TV CHANNEL", My TV
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Ekushe TV" tvg-logo="https://i.postimg.cc/YSsGZJ14/IMG-20241112-043123.jpg" tvg-chno="3" group-title="FR TV CHANNEL", Ekushe TV
