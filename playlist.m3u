@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/bNXW2m7j/IMG-20241111-005203.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="My TV" tvg-logo="https://i.postimg.cc/Kv2FycvL/images-30.jpg" tvg-chno="2" group-title="FR TV CHANNEL", My TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Ekushe TV" tvg-logo="https://i.postimg.cc/YSsGZJ14/IMG-20241112-043123.jpg" tvg-chno="3" group-title="FR TV CHANNEL", Ekushe TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="R TV" tvg-logo="https://i.postimg.cc/R0VpXnRS/IMG-20241112-051200.jpg" tvg-chno="1" group-title="FR TV CHANNEL", R TV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Boishakhi tv" tvg-logo="https://i.postimg.cc/d0pRr7NS/1731367931560.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Boishakhi tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/FFjbkHyD/IMG-20241112-053334.png" tvg-chno="1" group-title="FR TV CHANNEL", Desh TV
+https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/6qJt6FDb/unnamed-2.png" tvg-chno="1" group-title="FR TV CHANNEL", Channel 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/7YqpjGZT/IMG-20241107-011851.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Somoy TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony Yay" tvg-logo="https://i.postimg.cc/yNsqWrCQ/mobile-logo-091186001666784752.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony Yay
 https://mdfardin857875557.github.io/Sony-Yay-toffee/Play.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/BvKg9JVR/mobile-logo-443429001678950505.png" tvg-chno="1" group-title="FR TV CHANNEL", Cartoon Network HD+
