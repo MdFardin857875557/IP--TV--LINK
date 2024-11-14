@@ -88,8 +88,12 @@ https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Entertainment" tvg-logo="https://i.postimg.cc/L6bFYK81/mobile-logo-149299001666780350.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Entertainment
 https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony ET HD" tvg-logo="https://i.postimg.cc/bwwFGd4G/mobile-logo-495351001666780441-1.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony ET HD
+https://toffee.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/RZHyWWYk/mobile-logo-612341001666782969.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Max
 https://toffee.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony MAX HD" tvg-logo="https://i.postimg.cc/hvN1ZPpr/mobile-logo-440775001666782769-1.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony MAX HD
+https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/zBXxFvdX/mobile-logo-886909001563629905.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Music
 https://toffee.iptvbd.xyz/api/b4umusic.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/k4P2VCgr/mobile-logo-496322001666780228.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony AATH
