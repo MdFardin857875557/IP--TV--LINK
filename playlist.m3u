@@ -77,3 +77,48 @@ https://dplus.gammacdn.workers.dev/videos/95.m3u8
 https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/DwdLvzTX/mobile-logo-648826001673178929.png" tvg-chno="3" group-title="FR TV CHANNEL", TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Sony TEN 1 HD" tvg-logo="https://i.postimg.cc/8CF5JmG1/mobile-logo-237244001666780563.png" tvg-chno="1" group-title="FR TV CHANNEL", Sony TEN 1 HD
+https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 2 HD" tvg-logo="https://i.postimg.cc/902Fk37M/mobile-logo-093449001666780976.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 2 HD
+https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 3 HD" tvg-logo="https://i.postimg.cc/Hspk4gmv/mobile-logo-992280001666781086.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 3 HD
+https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony TEN 5 HD" tvg-logo="https://i.postimg.cc/y8G6H3Z2/mobile-logo-689539001672145843.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony TEN 5 HD
+https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Entertainment" tvg-logo="https://i.postimg.cc/L6bFYK81/mobile-logo-149299001666780350.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Entertainment
+https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/RZHyWWYk/mobile-logo-612341001666782969.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony Max
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/zBXxFvdX/mobile-logo-886909001563629905.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Music
+https://toffee.iptvbd.xyz/api/b4umusic.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/k4P2VCgr/mobile-logo-496322001666780228.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony AATH
+https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony SAB HD" tvg-logo="https://i.postimg.cc/pL9rqr9b/mobile-logo-688156001666785674.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony SAB HD
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony MAX2" tvg-logo="https://i.postimg.cc/66jBgwx9/mobile-logo-044841001666779831.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony MAX2
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony WAH" tvg-logo="https://i.postimg.cc/pT0MwQ70/mobile-logo-037670001666785867.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony WAH
+https://toffee.iptvbd.xyz/api/sony_wah.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony BBC EARTH HD" tvg-logo="https://i.postimg.cc/DyXR6K2p/mobile-logo-363688001655891620.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony BBC EARTH HD
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/wBvChR3L/mobile-logo-287412001666784602.png" tvg-chno="2" group-title="FR TV CHANNEL", Sony PIX HD
+https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="B4U Movie" tvg-logo="https://i.postimg.cc/25VtqpXx/mobile-logo-702115001663003759.png" tvg-chno="2" group-title="FR TV CHANNEL", B4U Movie
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/9QFmnMrF/mobile-logo-032001001673194753.png" tvg-chno="1" group-title="FR TV CHANNEL", Animal Planet HD
+https://toffee.iptvbd.xyz/api/animal_planet_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/ZR34dvDj/mobile-logo-835681001673175607.png" tvg-chno="2" group-title="FR TV CHANNEL", Animal Planet
+https://toffee.iptvbd.xyz/api/animal_planet_sd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Channel HD" tvg-logo="https://i.postimg.cc/rFqMDmGC/mobile-logo-868363001673181438.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Channel HD
+https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Channel" tvg-logo="https://i.postimg.cc/D02HwWVS/mobile-logo-297723001673195119.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Channel
+https://toffee.iptvbd.xyz/api/discovery_sd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Science" tvg-logo="https://i.postimg.cc/MG79fWmV/mobile-logo-604754001673177502.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Science
+https://toffee.iptvbd.xyz/api/discovery_science.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/CK7jVd4P/mobile-logo-775127001673177876.png" tvg-chno="2" group-title="FR TV CHANNEL", Discovery Turbo
+https://toffee.iptvbd.xyz/api/discovery_turbo.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/7P2NQ3RX/mobile-logo-648826001673178929.png" tvg-chno="2" group-title="FR TV CHANNEL", TLC HD
+https://toffee.iptvbd.xyz/api/tlc_hd.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="TLC" tvg-logo="https://i.postimg.cc/d032Rrd2/mobile-logo-048875001673178985.png" tvg-chno="2" group-title="FR TV CHANNEL", TLC
+https://toffee.iptvbd.xyz/api/tlc_sd.m3u8
