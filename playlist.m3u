@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="News 24" tvg-logo="https://i.postimg.cc/d0dNVpHH/mobile-logo-320294001679201065.png" tvg-chno="1" group-title="FR TV CHANNEL", CN SD
-https://mdfardin857875557.github.io/CN-TOFFEE/Play.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="CARTOON NETWORK PK" tvg-logo="https://i.postimg.cc/d0dNVpHH/mobile-logo-320294001679201065.png" tvg-chno="1" group-title="FR TV CHANNEL", CARTOON NETWORK PK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u8
