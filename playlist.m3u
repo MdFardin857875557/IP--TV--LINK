@@ -9,7 +9,7 @@ https://dplus.gammacdn.workers.dev/videos/99.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery turbo" tvg-logo="https://i.postimg.cc/MKXScyXB/mobile-logo-775127001673177876.png" tvg-chno="1" group-title="FR TV CHANNEL", Discovery turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery Science " tvg-logo="https://i.postimg.cc/8CRKVGyK/FB-IMG-1731271397914.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Discovery Science 
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery Science " tvg-logo="https://i.postimg.cc/7PWRWjYC/mobile-logo-604754001673177502.png" tvg-chno="1" group-title="FR TV CHANNEL", Discovery Science 
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Investigation Discovery HD" tvg-logo="https://i.ibb.co.com/7R3F29t/mobile-logo-154805001673178308.png" tvg-chno="1" group-title="FR TV CHANNEL", Investigation Discovery HD
 https://altogether-007.vercel.app/Discovery/api/Investigation_Discovery.m3u8
