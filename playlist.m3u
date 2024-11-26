@@ -17,6 +17,11 @@ https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Enterr 10 Bangla" tvg-logo="https://i.postimg.cc/j246x4Nf/unnamed.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="& TV HD"
+tvg-logo="https://i.postimg.cc/g2CvRfsX/images-32.jpg" tvg-chno="2" group-title="FR TV CHANNEL", & TV HD
+https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="Star Plus HD" tvg-logo="https://i.postimg.cc/NMfLr432/IMG-20241126-220934.jpg" tvg-chno="3" group-title="FR TV CHANNEL", Star Plus HD
+https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="METV HD" tvg-logo="https://i.ibb.co.com/kXzjTzN/images-27.jpg" tvg-chno="1" group-title="FR TV CHANNEL", METV HD
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="9XM" tvg-logo="https://i.postimg.cc/RF6yysgj/image.png" tvg-chno="2" group-title="FR TV CHANNEL", 9XM
