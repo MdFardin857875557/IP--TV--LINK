@@ -31,8 +31,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://proxy.imotv.online/sonysports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ae559a27" tvg-name="Star Sp 1 HD" tvg-logo="https://i.postimg.cc/zXGkPKZc/image-Content-8301-j7hc0820-m1.png" tvg-chno="3" group-title="FR TV CHANNEL", Star Sp 1 HD
 https://mdfardin857875557.github.io/Star-Sports-HD/Play.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/5tLwKnHV/mobile-logo-430542001673177743.png" tvg-chno="1" group-title="FR TV CHANNEL", Discovery Kids
+https://altogether-007.vercel.app/Discovery/api/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="CARTOON NETWORK PK" tvg-logo="https://i.postimg.cc/d0dNVpHH/mobile-logo-320294001679201065.png" tvg-chno="1" group-title="FR TV CHANNEL", CN PK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Gubbare" tvg-logo=""https://i.postimg.cc/PJWwp8Tk/image-Content-57985-khvdchrs-m2.webp" tvg-chno="2" group-title="FR TV CHANNEL", Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="PBS KIDS" tvg-logo="https://i.postimg.cc/QMFKgzhm/PBS-Kids-logo-2022-svg.png" tvg-chno="3" group-title="FR TV CHANNEL", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Spacetoon" tvg-logo="https://i.postimg.cc/4yy3Z7y5/images-25.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w537828290_b346000_slAR.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Zoo moo" tvg-logo="https://i.postimg.cc/RZKZMzSj/images-15.png" tvg-chno="1" group-title="FR TV CHANNEL", Zoo moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Discover Channel" tvg-logo="https://i.postimg.cc/nLJ225Hv/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Discover Channel 
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/x1r3j7NW/image-Content-44915-jzuyh3w0-m1-1.webp" tvg-chno="2" group-title="FR TV CHANNEL", Animal Planet HD
