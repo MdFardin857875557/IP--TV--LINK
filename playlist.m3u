@@ -25,8 +25,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="9X Jhakaas" tvg-logo="https://i.postimg.cc/90q2PF3w/image.jpg" tvg-chno="1" group-title="FR TV CHANNEL", 9X Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="CARTOON NETWORK PK" tvg-logo="https://i.postimg.cc/d0dNVpHH/mobile-logo-320294001679201065.png" tvg-chno="1" group-title="FR TV CHANNEL", CARTOON NETWORK PK
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u8
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="CARTOON NETWORK PK" tvg-logo="https://i.postimg.cc/d0dNVpHH/mobile-logo-320294001679201065.png" tvg-chno="1" group-title="FR TV CHANNEL", CN PK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87M/chunks.m3u
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Discover Channel" tvg-logo="https://i.postimg.cc/nLJ225Hv/channels4-profile-4.jpg" tvg-chno="1" group-title="FR TV CHANNEL", Discover Channel 
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-id="4ed08af5" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/x1r3j7NW/image-Content-44915-jzuyh3w0-m1-1.webp" tvg-chno="2" group-title="FR TV CHANNEL", Animal Planet HD
@@ -37,5 +37,5 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Discovery Science " tvg-logo="https://i.postimg.cc/7PWRWjYC/mobile-logo-604754001673177502.png" tvg-chno="1" group-title="FR TV CHANNEL", Discovery Science 
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 tvg-id="1726ae10" tvg-name="Investigation Discovery HD" tvg-logo="https://i.ibb.co.com/7R3F29t/mobile-logo-154805001673178308.png" tvg-chno="1" group-title="FR TV CHANNEL", Investigation Discovery HD
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Investigation Discovery HD" tvg-logo="https://i.ibb.co.com/7R3F29t/mobile-logo-154805001673178308.png" tvg-chno="1" group-title="FR TV CHANNEL", ID HD
 https://altogether-007.vercel.app/Discovery/api/Investigation_Discovery.m3u8
